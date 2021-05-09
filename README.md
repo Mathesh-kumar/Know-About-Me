@@ -5,4 +5,4 @@
 ####  &nbsp;&nbsp; 🔹 Specialized in the field of **Data Sciene**
 
 ## 🔰 **Connect with me?**
-<img width="200" src="https://image.freepik.com/free-vector/colored-social-media-circle-icons_23-2147734598.jpg?3">
+<img width="200" src="https://toppng.com/uploads/preview/instagram-logo-circle-11549679754rhbcorxntv.png">
