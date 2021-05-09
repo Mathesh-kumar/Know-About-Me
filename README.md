@@ -5,8 +5,7 @@
 ####  &nbsp;&nbsp; 🔹 Specialized in the field of **Data Sciene**
 
 ## 🔰 **Connect with me?**
-<img width="40" height="40" style="border-radius:50%" src="https://cdn.wallpapersafari.com/45/91/RJHGZ4.png">
-<a href="url"><img src="https://cdn.wallpapersafari.com/45/91/RJHGZ4.png" height="auto" width="200" style="border-radius:50%"></a>
+<img width="40" height="40" style="border-radius:50%" src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png">
 <img width="40" height="40" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png">
 <img width="40" height="40" src="https://www.freeiconspng.com/uploads/logo-twitter-circle-png-transparent-image-1.png">
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png">
