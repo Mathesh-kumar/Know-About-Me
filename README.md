@@ -5,8 +5,10 @@
 ####  &nbsp;&nbsp; 🔹 Specialized in the field of **Data Sciene**
 
 ## 🔰 **Connect with me?**
+<p>
 <img width="40" height="40" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png">
 <img width="40" height="40" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png">
 <img width="40" height="40" src="https://www.freeiconspng.com/uploads/logo-twitter-circle-png-transparent-image-1.png">
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png">
 <img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">
+</p>
