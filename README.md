@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hello there. I'm Matheshkumar</h1>
 
-## 🔰 **Who I am ?**
-####  &nbsp;&nbsp; 🔹 3rd Yr CSE Student at <span style="color:red;"> Mepco Schlenk Engineering College </span>
-####  &nbsp;&nbsp; 🔹 Specialized in the field of **Data Sciene** < span style=”color:red;font-size:15px” > you< /span>
+## 🔰 **Who I am (About me)?**
+####  &nbsp;&nbsp; 🔹 3rd Yr CSE Student at Mepco Schlenk Engineering College.
+####  &nbsp;&nbsp; 🔹 Specialized in the field of **Data Sciene**.
+####  &nbsp;&nbsp; 🔹 Interested to learn new tools and technologies.
+####  &nbsp;&nbsp; 🔹 Loves to automate things with the help of programming.
 
 ## 🔰 **Connect with me**
 <p>
