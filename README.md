@@ -3,7 +3,7 @@
 ## 🔰 **Who I am (About me)?**
 ####  &nbsp;&nbsp; 🔹 3rd Yr CSE Student at Mepco Schlenk Engineering College.
 ####  &nbsp;&nbsp; 🔹 Specialized in the field of **Data Sciene**.
-####  &nbsp;&nbsp; 🔹 Interested to learn new tools and technologies.
+####  &nbsp;&nbsp; 🔹 Eager to learn new cool stuffs.
 ####  &nbsp;&nbsp; 🔹 Loves to automate things with the help of programming.
 
 ## 🔰 **Connect with me**
