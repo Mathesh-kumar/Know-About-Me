@@ -32,7 +32,6 @@
   <a href="" ><img width="40" height="40" src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667"></a>&nbsp;
 </p>
 
-
 ## 🔰 **Connect with me**
 <p>
   &nbsp;&nbsp;
@@ -45,4 +44,9 @@
   <a href="https://www.hackerearth.com/@matheshkumar" ><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png"></a>
   &nbsp;
   <a href="https://www.hackerrank.com/matheshkumar256" ><img width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"></a>
+</p>
+
+## 🔰 **Achievements**
+<p>
+  <a href="https://www.hackerrank.com/matheshkumar256" ><img width="" height="" src="https://github.com/Mathesh-kumar/Mathesh-kumar/blob/main/HackerRank_Badges.png"></a>
 </p>
