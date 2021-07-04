@@ -47,6 +47,14 @@
 </p>
 
 ## 🔰 **Achievements**
-<p>
-  <a href="https://www.hackerrank.com/matheshkumar256" ><img width="" height="" src="https://github.com/Mathesh-kumar/Mathesh-kumar/blob/main/HackerRank_Badges.png"></a>
-</p>
+<div>
+  <p>
+    <h3>1. HackerRank</h3>
+    <a href="https://www.hackerrank.com/matheshkumar256" ><img width="800" height="180" src="https://github.com/Mathesh-kumar/Mathesh-kumar/blob/main/HackerRank_Badges.png"></a>
+  </p>
+  
+  <p>
+    <h3>2. HackerEarth</h3>
+    <a href="https://www.hackerearth.com/@matheshkumar" ><img width="800" height="460" src="https://github.com/Mathesh-kumar/Mathesh-kumar/blob/main/HackerEarth_Profile.png"></a>
+  </p>
+</div>
