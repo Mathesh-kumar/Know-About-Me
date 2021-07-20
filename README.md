@@ -1,20 +1,16 @@
 <h1 align="center">👋 Hello there. I'm Matheshkumar</h1>
 
 ## 🔰 **Who I am ?**
-    1. Pursuing B.E Computer Science (Specialized in Data Science)
-    2. More interested to learn new concepts and technologies. 
-    3. As of now working in the field of Machine Learning & Deep Learning. 
-    4. Like to robotize things and lessen work with the assistance of coding. 
-    5. Have 2+ years of experience in C, C++, and Python programming. 
-    6. And 1+ year of experience in Machine Learning and Deep Learning. 
-    7. Good at logical programming and various types of data structures & algorithms.
+&nbsp;&nbsp;&nbsp;&nbsp;🎓  Pursuing final year <strong>B.E Computer Science with Data Science</strong> specialization. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;👉  Currently working in the field of <strong>machine learning & deep learning</strong>. <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;❤️  Like to robotize things and reduce manual work with the assistance of coding. <br> 
 
 ## 🔰 **My Moto ?**
-    1. Do what you love
-    2. Born to achieve something
-    3. Work until no longer need to introduce yourself
+&nbsp;&nbsp;&nbsp;&nbsp;1️⃣ Do what you love <br>
+&nbsp;&nbsp;&nbsp;&nbsp;2️⃣ Born to achieve something <br>
+&nbsp;&nbsp;&nbsp;&nbsp;3️⃣ Work until no longer need to introduce yourself <br>
 
-## 🔰 **Techs I Know**
+## 🔰 **Tools & Technologies (worked in)**
 <p>
   &nbsp;&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>&nbsp;
@@ -35,15 +31,15 @@
 ## 🔰 **Connect with me**
 <p>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_mathu_mk_/" ><img width="40" height="40" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png"></a>
+  <a href="https://www.instagram.com/_mathu_mk_/" ><img width="40" height="40" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png"></a>&nbsp;
   &nbsp;
-  <a href="https://www.linkedin.com/in/matheshkumar-p-066571199/" ><img width="40" height="40" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png"></a>
+  <a href="https://www.linkedin.com/in/matheshkumar-p-066571199/" ><img width="40" height="40" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png"></a>&nbsp;
   &nbsp;
-  <a href="https://twitter.com/matheshkumar256" ><img width="40" height="40" src="https://www.freeiconspng.com/uploads/logo-twitter-circle-png-transparent-image-1.png"></a>
+  <a href="https://twitter.com/matheshkumar256" ><img width="40" height="40" src="https://www.freeiconspng.com/uploads/logo-twitter-circle-png-transparent-image-1.png"></a>&nbsp;
   &nbsp;
-  <a href="https://www.hackerearth.com/@matheshkumar" ><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png"></a>
+  <a href="https://www.hackerearth.com/@matheshkumar" ><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png"></a>&nbsp;
   &nbsp;
-  <a href="https://www.hackerrank.com/matheshkumar256" ><img width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"></a>
+  <a href="https://www.hackerrank.com/matheshkumar256" ><img width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"></a>&nbsp;
 </p>
 
 ## 🔰 **Achievements**
