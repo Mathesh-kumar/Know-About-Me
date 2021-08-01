@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there. I'm Matheshkumar</h1>
 
 ## 🔰 **Who I am ?**
-&nbsp;&nbsp;&nbsp;&nbsp;🎓  Pursuing final year <strong>B.E Computer Science with Data Science</strong> specialization. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;🎓  Pursuing final year <strong>B.E Computer Science & Engieering with Data Science</strong> specialization. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;👉  Currently working in the field of <strong>machine learning & deep learning</strong>. <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;❤️  Like to robotize things and reduce manual work with the assistance of coding. <br> 
 
